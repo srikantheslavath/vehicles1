@@ -1,6 +1,0 @@
-----------------
-git init : This is used for creating a new repo on our local system ,as it is on our local system it is also called as local repo
-
-git clone : git clone is used to clone(copy) any existing remote repo from remote location to ur local machine 
-
-git fork : it is used to create a copy of any particular repo into our github directly 
